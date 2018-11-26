@@ -1,5 +1,5 @@
 <?php
-$url= "http://newsletter.paceinfonet.com/";
+$url= "http://google.com/";
 $handle = curl_init($url);
 curl_setopt($handle,  CURLOPT_RETURNTRANSFER, TRUE);
 
