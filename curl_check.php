@@ -1,5 +1,5 @@
 <?php
-$url= "http://google.com/";
+$url= "http://webhostworld.in/";
 $handle = curl_init($url);
 curl_setopt($handle,  CURLOPT_RETURNTRANSFER, TRUE);
 
